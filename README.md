@@ -8,7 +8,7 @@ Passionate about clean code, UI/UX, and scalable applications
  Tech Stack:
 - Frontend: HTML, Tailwind CSS, JavaScript, React
 - Backend: PHP (OOP/MVC), Laravel, Node.js
-- Database: MySQL
+- Database: MySQL, MongoDb, MariaDb, SQLite
 - Tools: XAMPP, Git, Vercel, Railway, firebase, Supabase
 
 
