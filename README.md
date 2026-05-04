@@ -1,7 +1,7 @@
 Hi, I'm Wilgen R. Rivas 👋
 
 
-Full-Stack Developer (PHP, Laravel, React, MySQL)  
+Full-Stack Developer (PHP, Laravel, React, MySQL, Node.js)  
 Building real-world systems like Inventory, POS, and Management Systems  
 Passionate about clean code, UI/UX, and scalable applications  
 
