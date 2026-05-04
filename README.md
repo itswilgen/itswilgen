@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Wilgen R. Rivas 👋
 
-<!--
-**itswilgen/itswilgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSIT Student at Negros Oriental State University (NORSU)  
+💻 Full-Stack Developer (PHP, Laravel, React, MySQL)  
+🚀 Building real-world systems like Inventory, POS, and Management Systems  
+🎯 Passionate about clean code, UI/UX, and scalable applications  
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+- Frontend: HTML, Tailwind CSS, JavaScript, React
+- Backend: PHP (OOP/MVC), Laravel, Node.js
+- Database: MySQL
+- Tools: XAMPP, Git, Vercel, Railway
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Current Project:
+Web-Based Petron Gasoline Inventory and Sales Management System
+
+🎧 Also known as DJ Wilgen Rivas  
+📫 Let's connect: instagram.com/wilgen_thedj
